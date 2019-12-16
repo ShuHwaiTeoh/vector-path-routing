@@ -1,0 +1,4 @@
+<R0 -> R0> Path: R0, Cost: 0
+<R0 -> R1> Path: R0 -> R1, Cost: 4
+<R0 -> R2> Path: R0 -> R2, Cost: 50
+

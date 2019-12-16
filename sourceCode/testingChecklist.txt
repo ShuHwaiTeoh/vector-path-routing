@@ -1,0 +1,22 @@
+Please briefly indicate the level of confidence you have in your code correctly executing each of the following test cases below. Feel free to append test cases of your own.
+
+An example response would look like:
+Basic 2_routers.conf Convergence: consistently gets correct routing table
+Basic 5_routers.conf Convergence: does not always converge to correct routing tables
+Basic 10_routers.conf Convergence: crashes once in a while
+
+BASIC CONVERGENCE TEST CASES:
+Basic 2_routers.conf Convergence:
+Basic 4_routers.conf Convergence:
+Basic 5_routers.conf Convergence:
+Basic 10_routers.conf Convergence:
+
+VALGRIND TEST CASE:
+Indicate Topology:
+Result of Valgrind:
+
+KILL AND REVIVE ROUTER TEST CASE:
+Indicate Topology:
+Indicate Router to kill/revive:
+Convergence after Killing Router:
+Convergence after RevivingRouter:

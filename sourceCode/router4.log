@@ -1,0 +1,602 @@
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R0, Cost: 50
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+<R4 -> R4> Path: R4, Cost: 0
+<R4 -> R0> Path: R4 -> R1 -> R0, Cost: 4
+<R4 -> R1> Path: R4 -> R1, Cost: 3
+<R4 -> R2> Path: R4 -> R2, Cost: 6
+<R4 -> R3> Path: R4 -> R2 -> R3, Cost: 8
+
+5:Converged

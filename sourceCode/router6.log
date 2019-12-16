@@ -1,0 +1,819 @@
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R1 -> R2, Cost: 55
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R1, Cost: 50
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R4 -> R2 -> R1, Cost: 15
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+
+<R6 -> R6> Path: R6, Cost: 0
+<R6 -> R1> Path: R6 -> R4 -> R2 -> R1, Cost: 15
+<R6 -> R4> Path: R6 -> R4, Cost: 5
+<R6 -> R5> Path: R6 -> R5, Cost: 6
+<R6 -> R7> Path: R6 -> R7, Cost: 10
+<R6 -> R8> Path: R6 -> R8, Cost: 5
+<R6 -> R0> Path: R6 -> R1 -> R0, Cost: 65
+<R6 -> R2> Path: R6 -> R4 -> R2, Cost: 10
+<R6 -> R3> Path: R6 -> R4 -> R3, Cost: 10
+<R6 -> R9> Path: R6 -> R8 -> R9, Cost: 15
+
+5:Converged
